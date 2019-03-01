@@ -11,3 +11,5 @@ Summary:
 2. Inter class and Anonymoue class:
  >>> Use static inner class 
 
+A Open source libary for detecting memory leak
+https://github.com/square/leakcanary
