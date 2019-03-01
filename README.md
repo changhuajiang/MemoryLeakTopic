@@ -1,0 +1,13 @@
+# MemoryLeakTopic
+
+https://android-developers.googleblog.com/2009/01/avoiding-memory-leaks.html
+
+https://medium.com/freenet-engineering/memory-leaks-in-android-identify-treat-and-avoid-d0b1233acc8
+
+
+Summary:
+1. Context related:  Context from Activity and Application:
+ >>> use the Application context instead of activity context;
+2. Inter class and Anonymoue class:
+ >>> Use static inner class 
+
